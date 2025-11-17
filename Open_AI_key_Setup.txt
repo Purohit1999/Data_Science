@@ -1,0 +1,27 @@
+How to create API Key in Open AI
+=================================
+Step 1 : Go to URL - https://platform.openai.com/api-keys
+Step 2 : Login with Google Account or Create your Account 
+Step 3 : At Top Right Corner you will see API Reference
+Step 4 : In Authentication just click on organization setting.
+Step 5 : Click on Create New Secret Key 
+Step 6 : It will ask name just given any name and Add Project and Also Set Permission to All.
+Step 7 : Click on Create Secret Key.
+Step 8 : It display API key and just copy and save in notepad.
+
+
+### Create Langchain 
+-> New file with name .env 
+-> Update Requirements.txt 
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+python-dotenv
+
+
+- genAI_langchain_env  (Python Version = 3.11)
+- Langchain (Folder Name)
+	- .env
+	- requirements.txt
+	- 1_Introduction.py

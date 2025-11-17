@@ -1,0 +1,28 @@
+# Core LangChain Libraries
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+python-dotenv
+langchain-google-genai
+
+# Web & Visualization
+streamlit
+
+# ========== RAG (Local) ==========
+langchain-chroma
+chromadb
+
+# ========== RAG (Cloud / Advanced) ==========
+pypdf
+langchain-postgres
+psycopg[binary]
+ddg  # DuckDuckGo Search
+faiss-cpu
+chromadb
+
+# ========== Web API & Deployment ==========
+langserve
+fastapi
+uvicorn
+sse-starlette

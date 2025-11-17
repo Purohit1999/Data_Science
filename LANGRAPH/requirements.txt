@@ -1,0 +1,22 @@
+# LangChain core ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-text-splitters
+
+# LangGraph
+langgraph
+langgraph-sdk
+langgraph-checkpoint
+langgraph-checkpoint-sqlite
+
+# Additional utilities
+python-dotenv
+
+# (Optional but useful)
+langserve
+fastapi
+uvicorn
